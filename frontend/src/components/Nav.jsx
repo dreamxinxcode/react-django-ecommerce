@@ -3,7 +3,7 @@ import './Nav.scss';
 
 function Nav() {
   return (
-    <nav>
+    <nav className='navbar'>
 
     </nav>
   )
